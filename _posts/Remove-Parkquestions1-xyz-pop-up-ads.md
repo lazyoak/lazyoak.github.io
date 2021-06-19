@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Parkquestions1.xyz is a site that tries to trick you into subscribing to its browser notifications so that it can send notification spam directly to your desktop or phone.
 
